@@ -8,6 +8,10 @@
   padding-right: 20px;
 }
 
+h1, h2, h3, p, a {
+  font-family: "Yu Gothic";
+}
+
 h1, h3, p {
   padding-left: 20px;
   padding-right: 20px;
