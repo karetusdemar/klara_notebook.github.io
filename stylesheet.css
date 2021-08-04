@@ -13,3 +13,8 @@ h1, h2, h3, p {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+h2 {
+  border-left: 0.4em solid #9370db;
+  border-bottom: 1px solid #9370db;
+}
