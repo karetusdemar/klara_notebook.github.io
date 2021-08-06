@@ -1,6 +1,6 @@
 .header {
   text-align: center;
-  font-family: Roman;
+  font-family: 'ヒラギノ角ゴ Std W8', 'Hiragino Kaku Gothic Std';
   height: 40px;
   font-size: 30px;
   color: #9370db;
@@ -18,7 +18,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  magin: 10px;
+  margin-bottom: 10px;
 }
 
 h1, h2, h3, p, a {
