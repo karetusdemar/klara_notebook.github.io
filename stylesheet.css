@@ -1,9 +1,9 @@
 .header {
+  text-align: center;
+  font-family: Roman;
   height: 40px;
   font-size: 30px;
   background-color: #9370db;
-  font-family: 'Courier', Roman;
-  color: #ffffff;
   padding-left: 20px;
   padding-right: 20px;
 }
