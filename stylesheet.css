@@ -14,9 +14,11 @@
   background-color: black;
   color: #ffffff;
   text-align: center;
+  display:block;
   display: flex;
   justify-content: center;
   align-items: center;
+  magin: 10px;
 }
 
 h1, h2, h3, p, a {
