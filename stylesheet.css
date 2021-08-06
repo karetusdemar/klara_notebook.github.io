@@ -3,9 +3,20 @@
   font-family: Roman;
   height: 40px;
   font-size: 30px;
-  background-color: #9370db;
+  color: #9370db;
+  border-bottom: 1px solid #9370db;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.contents {
+  height: 40px;
+  background-color: black;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1, h2, h3, p, a {
